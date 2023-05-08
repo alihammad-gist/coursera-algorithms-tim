@@ -1,0 +1,57 @@
+# 2023/05/08 08:07:11 TestMergeSort [rapid] draw Merge sort test: []int{-92230, 6622, -3, 261238908, 5305, 4215}
+# 2023/05/08 08:07:11 TestMergeSort 
+# 	Error Trace:	/home/cocomo/dev/go/src/github.com/alihammad-gist/coursera_algo/course/one/recall/23_05_08/main_test.go:34
+# 	            				/home/cocomo/dev/go/src/github.com/flyingmutant/rapid/engine.go:319
+# 	            				/home/cocomo/dev/go/src/github.com/flyingmutant/rapid/engine.go:328
+# 	            				/home/cocomo/dev/go/src/github.com/flyingmutant/rapid/engine.go:181
+# 	            				/home/cocomo/dev/go/src/github.com/flyingmutant/rapid/engine.go:93
+# 	            				/home/cocomo/dev/go/src/github.com/alihammad-gist/coursera_algo/course/one/recall/23_05_08/main_test.go:28
+# 	Error:      	Not equal: 
+# 	            	expected: []int{261238908, 6622, 5305, 4215, -3, -92230}
+# 	            	actual  : []int{-92230, -3, 4215, 5305, 6622, 261238908}
+# 	            	
+# 	            	Diff:
+# 	            	--- Expected
+# 	            	+++ Actual
+# 	            	@@ -1,8 +1,8 @@
+# 	            	 ([]int) (len=6) {
+# 	            	- (int) 261238908,
+# 	            	+ (int) -92230,
+# 	            	+ (int) -3,
+# 	            	+ (int) 4215,
+# 	            	+ (int) 5305,
+# 	            	  (int) 6622,
+# 	            	- (int) 5305,
+# 	            	- (int) 4215,
+# 	            	- (int) -3,
+# 	            	- (int) -92230
+# 	            	+ (int) 261238908
+# 	            	 }
+# 	Test:       	TestMergeSort
+# 
+v0.4.8#1180954909338297159
+0xd4d4077655011
+0x188ee1f8222782
+0x153e5087fd49a2
+0x16845
+0xc7306ec82b08a
+0xc2da7da2d264e
+0x113bdfc2691c98
+0x19de
+0x1e940fdfbdadfb
+0x1c9b121f77da63
+0x2a46dbabc34f0
+0x2
+0x1692c44aeb1eb5
+0x3cf894a7f5580
+0x1a4f4eda75f785
+0xf92307c
+0x1d8bc91346af1b
+0x3af60f0163d58
+0x11595e2a152ece
+0x14b9
+0x6318aacc988c4
+0xa1b1acb13c902
+0x113f32227eb9fc
+0x1077
+0x19bfbcd849d51

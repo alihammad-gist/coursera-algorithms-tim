@@ -1,0 +1,21 @@
+# 2023/05/08 07:11:45 TestKaratsubaMul [rapid] draw x: 13
+# 2023/05/08 07:11:45 TestKaratsubaMul [rapid] draw y: 53
+# 2023/05/08 07:11:45 TestKaratsubaMul 
+# 	Error Trace:	/home/cocomo/dev/go/src/github.com/alihammad-gist/coursera_algo/course/one/recall/23_05_08/main_test.go:16
+# 	            				/home/cocomo/dev/go/src/github.com/flyingmutant/rapid/engine.go:319
+# 	            				/home/cocomo/dev/go/src/github.com/flyingmutant/rapid/engine.go:328
+# 	            				/home/cocomo/dev/go/src/github.com/flyingmutant/rapid/engine.go:181
+# 	            				/home/cocomo/dev/go/src/github.com/flyingmutant/rapid/engine.go:93
+# 	            				/home/cocomo/dev/go/src/github.com/alihammad-gist/coursera_algo/course/one/recall/23_05_08/main_test.go:11
+# 	Error:      	Not equal: 
+# 	            	expected: 690
+# 	            	actual  : 689
+# 	Test:       	TestKaratsubaMul
+# 
+v0.4.8#18415448570865266080
+0x19d873b1468a7d
+0xe926be00f9432
+0xc
+0xa0f755b9d9ae3
+0xf00bb7fbaf7f9
+0x34

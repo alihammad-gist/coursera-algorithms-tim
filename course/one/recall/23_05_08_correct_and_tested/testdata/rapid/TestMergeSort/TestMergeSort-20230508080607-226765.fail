@@ -1,0 +1,47 @@
+# 2023/05/08 08:06:07 TestMergeSort [rapid] draw Merge sort test: []int{1, 1, -3, 419, -244}
+# 2023/05/08 08:06:07 TestMergeSort 
+# 	Error Trace:	/home/cocomo/dev/go/src/github.com/alihammad-gist/coursera_algo/course/one/recall/23_05_08/main_test.go:34
+# 	            				/home/cocomo/dev/go/src/github.com/flyingmutant/rapid/engine.go:319
+# 	            				/home/cocomo/dev/go/src/github.com/flyingmutant/rapid/engine.go:328
+# 	            				/home/cocomo/dev/go/src/github.com/flyingmutant/rapid/engine.go:181
+# 	            				/home/cocomo/dev/go/src/github.com/flyingmutant/rapid/engine.go:93
+# 	            				/home/cocomo/dev/go/src/github.com/alihammad-gist/coursera_algo/course/one/recall/23_05_08/main_test.go:28
+# 	Error:      	Not equal: 
+# 	            	expected: []int{419, 1, 1, -3, -244}
+# 	            	actual  : []int{1, 1, -3, 419, -244}
+# 	            	
+# 	            	Diff:
+# 	            	--- Expected
+# 	            	+++ Actual
+# 	            	@@ -1,3 +1,2 @@
+# 	            	 ([]int) (len=5) {
+# 	            	- (int) 419,
+# 	            	  (int) 1,
+# 	            	@@ -5,2 +4,3 @@
+# 	            	  (int) -3,
+# 	            	+ (int) 419,
+# 	            	  (int) -244
+# 	Test:       	TestMergeSort
+# 
+v0.4.8#7451299581050661361
+0xcff5b52740bd1
+0x9afd07851089e
+0x3c04c076661c
+0x1
+0x152b33d965d3bb
+0x4db2b8e4d1cf0
+0x2da28184be4c3
+0x1
+0x1ee2ef67d9b0c1
+0x1e08962d6bc977
+0x26c9885d1effa
+0x2
+0xad20be621d3c2
+0xe77317bfdbb26
+0xee274b93b3ba5
+0x1a3
+0xa740161cfaeff
+0x18333e964e9280
+0xb682d720938bb
+0xf3
+0xb8c9a07d27ab
