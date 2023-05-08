@@ -1,3 +1,5 @@
 testdata/fuzz
 testdata/rapid
 tags
+tags.lock
+tags.temp
